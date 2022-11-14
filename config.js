@@ -55,7 +55,7 @@ const config = {
     title: 'Lordachoo.com - Andrew Nelson',
     description: 'Lordachoo.com - Andrew Nelson\'s website site (Gatsby/MDX)',
     ogImage: null,
-    docsLocation: 'https://github.com/lordachoo/lordachoo.com-gatsby-gitbook.git',
+    docsLocation: 'https://github.com/lordachoo/lordachoo.com-gatsby-gitbook/blob/main/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
