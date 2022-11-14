@@ -6,11 +6,11 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://hasura.io/learn/',
+    logo: '/static/1x1.svg',
+    logoLink: '/',
     title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/lordachoo/lordachoo.com.git',
+      "LordAchoo.com",
+    githubUrl: 'https://github.com/lordachoo/lordachoo.com-gatsby-gitbook.git',
     helpUrl: '',
     tweetText: '',
     social: `<!--<li>
@@ -38,15 +38,14 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/resume',
-      '/projects', 
-      '/introduction', // add trailing slash if enabled above
+      '/resume', 
+      '/formatting', // add trailing slash if enabled above
       '/codeblock',
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [{ text: 'Hasura', link: '#' }],
     frontLine: false,
     ignoreIndex: true,
     title:
@@ -56,11 +55,11 @@ const config = {
     title: 'Lordachoo.com - Andrew Nelson',
     description: 'Lordachoo.com - Andrew Nelson\'s website site (Gatsby/MDX)',
     ogImage: null,
-    docsLocation: 'https://github.com/lordachoo/lordachoo.com.git',
+    docsLocation: 'https://github.com/lordachoo/lordachoo.com-gatsby-gitbook.git',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
-    enabled: false, // disabling this will also remove the existing service worker.
+    enabled: true, // disabling this will also remove the existing service worker.
     manifest: {
       name: 'Gatsby Gitbook Starter',
       short_name: 'GitbookStarter',
