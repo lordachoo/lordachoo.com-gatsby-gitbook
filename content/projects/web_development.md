@@ -22,6 +22,31 @@ Using various technology stacks.
 
 Each page has a link to the MDX markup via the "Edit on GitHub" button to view the markup. 
 
+## Development Cycle
+
+```bash
+gatsby devel # to start the devel / local development server
+<edit files> # Re-renders at file changes
+gatsby build # to build / render the files once done with edits
+firebase deploy # Push files to Google Firebase (the host)
+
+# Example firebase deploy
+
+=== Deploying to 'lordachoo-c2966'...
+
+i  deploying hosting
+i  hosting[lordachoo-c2966]: beginning deploy...
+i  hosting[lordachoo-c2966]: found 137 files in public
++  hosting[lordachoo-c2966]: file upload complete
+i  hosting[lordachoo-c2966]: finalizing version...
++  hosting[lordachoo-c2966]: version finalized
+i  hosting[lordachoo-c2966]: releasing new version...
++  hosting[lordachoo-c2966]: release complete
+
++  Deploy complete!
+
+```
+
 ### Example MDX Formatting
 
 #### Simple Markup

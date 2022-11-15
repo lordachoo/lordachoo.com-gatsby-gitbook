@@ -1,6 +1,7 @@
 ---
-title: "Projects"
+title: "Projects & Hobbies"
 metaTitle: "Projects"
 metaDescription: "Projects"
 ---
-![Image](/static/neat.jpg)
+
+Various projects and hobbies that LordAchoo is involved.

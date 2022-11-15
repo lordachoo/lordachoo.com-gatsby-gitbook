@@ -2,14 +2,14 @@ const config = {
   gatsby: {
     pathPrefix: '/',
     siteUrl: 'https://lordachoo.com',
-    gaTrackingId: 'RMEEEJVXW9',
+    gaTrackingId: 'G-RMEEEJVXW9',
     trailingSlash: false,
   },
   header: {
     logo: '/static/1x1.svg',
     logoLink: '/',
     title:
-      "LordAchoo.com",
+      "<a href='/'>LordAchoo.com</A>",
     githubUrl: 'https://github.com/lordachoo/lordachoo.com-gatsby-gitbook.git',
     helpUrl: '',
     tweetText: '',
