@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: '/static/1x1.svg',
+    logo: 'https://firebasestorage.googleapis.com/v0/b/lordachoo-c2966.appspot.com/o/images%2F1x1.svg?alt=media&token=2868a92f-c4a4-4092-a335-9bff9280a66e',
     logoLink: '/',
     title:
       "<a href='/'>LordAchoo.com</A>",

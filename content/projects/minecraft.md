@@ -16,12 +16,12 @@ Server IP: minecraft0.lordachoo.com:25565
 
 [LordAchoo Minecraft Server Dynamap](http://minecraft0.lordachoo.com:8123/)
 
-Dynamap is active on the server which provides Google-maps like world mapping & rendering of the minecraft world, web chat (from web to in-game and vice versa).
+[Dynamap](https://github.com/webbukkit/dynmap) is active on the server which provides Google-maps like world mapping & rendering of the minecraft world, web chat (from web to in-game and vice versa).
 
-### Example
+### Dynmap Example
 
 You can see the current map via clicking the link above and visiting the server.
 
-![Image](/static/Dynmap-example0.PNG)
+![Image](https://firebasestorage.googleapis.com/v0/b/lordachoo-c2966.appspot.com/o/images%2FDynmap-example0.PNG?alt=media&token=81debd1e-5744-4223-bfe9-d1b322a4f9bf)
 
-![Image](/static/Dynmap-example1.PNG)
+![Image](https://firebasestorage.googleapis.com/v0/b/lordachoo-c2966.appspot.com/o/images%2FDynmap-example1.PNG?alt=media&token=67a0b472-8952-4cab-ae55-66b9500e33b4)
