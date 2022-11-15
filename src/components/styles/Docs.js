@@ -39,7 +39,7 @@ export const Edit = styled('div')`
 `;
 
 export const StyledMainWrapper = styled.div`
-  max-width: 750px;
+  max-width: 1280px;
   color: ${props => props.theme.colors.text};
 
   ul,
@@ -51,7 +51,7 @@ export const StyledMainWrapper = styled.div`
     padding: 0px 0px 0px 2em;
 
     li {
-      font-size: 16px;
+      font-size: 14px;
       line-height: 1.8;
       font-weight: 400;
     }

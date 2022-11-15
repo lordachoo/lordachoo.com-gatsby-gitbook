@@ -8,7 +8,7 @@ Andrew Nelson<br />
 Fremont, CA - (510) 399-3226<br />
 andrew.nelson@lordachoo.com<br />
 
-> I am interested in leveraging my 17 Years experience in the computer software and hardware field, as well as management and operations to help drive continuous improvement and growth. 
+> I am interested in leveraging my 17 Years experience in the computer software and hardware field, as well as quality management and operations to help drive continuous improvement and growth. 
 
 ## Experience
 
@@ -16,7 +16,7 @@ andrew.nelson@lordachoo.com<br />
 
 > Roles & Responsibility: Overall management of multiple departments including Technology, Facilities & IT, System Support & Software Development. Worked directly with customers to design & quote complex computer hardware and turn-key HPC clusters to fit their needs for a variety of workloads and applications - from off the shelf to customized embedded use cases.
 
-- Overall responsibility for hardware and software vendors
+- Overall responsibility for hardware and software vendor relationships, communication and partnerships
 - Overall responsibility for sales engineering team, system configurations, handling marquee accounts
 - Overall responsibility for IT & Infrastructure throughout the company (dual WAN/routing, VLANs, fiber infrastructure, Microsoft ADC)
 - Overall responsibility for internal software (ERP/Web/Backend Infrastructure) development with emphasis on CPQ (quotation system) development
@@ -28,12 +28,12 @@ andrew.nelson@lordachoo.com<br />
 
 - Started and refined internal processes for system integration operations and obtained ISO 9001:2008 certification for Exxact Corporation
 - Overall responsibility for sales engineering (this includes system quotations and configurations) for all accounts
-- Overall responsibility for CPQ (quote system) infrastructure and software development
+- Created CPQ (quote system) software system for configuring, pricing and presenting computer hardware quotations and proposals to customers
 - Overall responsibility for system customer technical support department
 
 ### [FQ Systems](https://fqsystems.com) - Lead Engineer & Software Engineer ***(October 2005 - September 2010)***
 
-> Roles & Responsibility: Lead engineer - managing integrators, process engineering as well as software development on internal software infrastructure
+> Roles & Responsibility: Manage integrator personnel, process engineering, software development on internal software infrastructure
 
 - Responsibility to create, validate and create processes for company within ISO 9001 compliance - as well as execute certification audit for company for all processes across the company
 - Responsibility working with integrators to ensure quality, conformance to written processes & build documents (ISO 9001)
@@ -41,8 +41,9 @@ andrew.nelson@lordachoo.com<br />
 
 ## Technical Skills
 
-- Software: HTML5, NodeJS, PHP (Expert Level), MySQL, MongoDB, PERL (Expert Level), JavaScript (Expert Level), C/C++, TensorFlow & AI/DL, Docker Containerization, Kubernetes, JS Frameworks such as REACT, GATSBY, jQuery, Etc
+- Software: HTML5, NodeJS, PHP (Expert Level), MySQL, MongoDB, PERL (Expert Level), JavaScript (Expert Level), C/C++, TensorFlow & AI/DL, Docker Containerization, Kubernetes, JS Frameworks such as REACT, GATSBY, jQuery, Etc, HPC Clustering (SLURM, MOAB, HPC/Cluster Provisioning & Management Stacks)
 - Hardware: All Consumer/Desktop Hardware & Server (rackmount) Hardware, Network Hardware (Ethernet, InfiniBand)
+- Technologies: Virtualization (VMWARE, KVM/LXC, Citrix), Network Engineering (Ethernet & InfiniBand Network Design & Implementation), DevOps/Software Orchestration (Ansible, Atlassian, Etc)
 - Process Engineering: ***Extensive*** ISO 9001:2015 experience, including [internal auditing](https://firebasestorage.googleapis.com/v0/b/lordachoo-c2966.appspot.com/o/images%2FISO%209001_2015%20Internal%20Auditor%20Training.pdf?alt=media&token=0db7e81e-1839-4856-860d-364141fdcf66)
 
 ---

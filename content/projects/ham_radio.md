@@ -1,7 +1,7 @@
 ---
-title: "Amateur (Ham) Radio"
-metaTitle: "Amateur (Ham) Radio"
-metaDescription: "Amateur (Ham) Radio"
+title: "Amateur (HAM) Radio"
+metaTitle: "Amateur (HAM) Radio"
+metaDescription: "Amateur (HAM) Radio"
 ---
 
 # KN6VEP

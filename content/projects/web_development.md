@@ -18,7 +18,7 @@ Using various technology stacks.
 
 - Hosted by Google Firebase
 - Built in Node, using Gatsby
-- Built using [gatsby-gitbook-starter](https://www.gatsbyjs.com/starters/hasura/gatsby-gitbook-starter)
+- Started using theme: [gatsby-gitbook-starter](https://www.gatsbyjs.com/starters/hasura/gatsby-gitbook-starter)
 
 Each page has a link to the MDX markup via the "Edit on GitHub" button to view the markup. 
 
