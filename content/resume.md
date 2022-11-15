@@ -14,9 +14,9 @@ andrew.nelson@lordachoo.com<br />
 
 ### [Exxact Corporation](https://exxactcorp.com) - VP of Technology ***(June 2018 - November 2022)***
 
-> Roles & Responsibility: Overall management of 3 departments: Technology, System Support & Software Development
+> Roles & Responsibility: Overall management of multiple departments including Technology, Facilities & IT, System Support & Software Development. Worked directly with customers to design & quote complex computer hardware and turn-key HPC clusters to fit their needs for a variety of workloads and applications - from off the shelf to customized embedded use cases.
 
-- Overall responsibility for hardware and softare vendors
+- Overall responsibility for hardware and software vendors
 - Overall responsibility for sales engineering team, system configurations, handling marquee accounts
 - Overall responsibility for IT & Infrastructure throughout the company (dual WAN/routing, VLANs, fiber infrastructure, Microsoft ADC)
 - Overall responsibility for internal software (ERP/Web/Backend Infrastructure) development with emphasis on CPQ (quotation system) development
@@ -24,8 +24,9 @@ andrew.nelson@lordachoo.com<br />
 
 ### [Exxact Corporation](https://exxactcorp.com) - Director of Engineering ***(September 2010 - June 2018)***
 
-> Roles & Responsibility: Overall responsibility for sales engineering, quote system software development, system customer technical support
+> Roles & Responsibility: Overall responsibility for sales engineering (customer facing and internal), quote system software development, system customer technical support
 
+- Started and refined internal processes for system integration operations and obtained ISO 9001:2008 certification for Exxact Corporation
 - Overall responsibility for sales engineering (this includes system quotations and configurations) for all accounts
 - Overall responsibility for CPQ (quote system) infrastructure and software development
 - Overall responsibility for system customer technical support department
@@ -57,6 +58,8 @@ andrew.nelson@lordachoo.com<br />
 - Hardware & Software Engineering
 - 3D Printing (FDM - Metal & Other Materials)
 - IOT Hardware & Programming (Arduino, ESP32, ESP8266, Etc)
-- Drones - Piloting, Mapping
+- Drones & RC
 - Cycling (Road / Mountain Bike / Cyclocross)
 - Amateur (HAM) Radio - FCC Technician License : [KN6VEP](https://kn6vep.com)
+- Archery
+- Firearms & Gunsmithing - Member at [LARGC](http://www.losaltosrodandgunclub.com/)
