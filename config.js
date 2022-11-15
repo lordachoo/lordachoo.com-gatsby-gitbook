@@ -2,7 +2,7 @@ const config = {
   gatsby: {
     pathPrefix: '/',
     siteUrl: 'https://lordachoo.com',
-    gaTrackingId: null,
+    gaTrackingId: 'RMEEEJVXW9',
     trailingSlash: false,
   },
   header: {
@@ -39,13 +39,12 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/resume', 
-      '/formatting', // add trailing slash if enabled above
-      '/codeblock',
+      '/projects',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      '/projects',
     ],
-    links: [{ text: 'Hasura', link: '#' }],
+    links: [{ text: 'LinkedIn Profile', link: 'https://www.linkedin.com/in/anelson1/' }],
     frontLine: false,
     ignoreIndex: true,
     title:
