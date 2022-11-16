@@ -55,7 +55,7 @@ const config = {
     description: 'Lordachoo.com - Andrew Nelson\'s website site (Gatsby/MDX)',
     ogImage: null,
     docsLocation: 'https://github.com/lordachoo/lordachoo.com-gatsby-gitbook/blob/main/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: 'https://firebasestorage.googleapis.com/v0/b/lordachoo-c2966.appspot.com/o/images%2Ffavicon.ico?alt=media&token=8abb1e45-c84e-4f56-a274-d191c7da281a',
   },
   pwa: {
     enabled: true, // disabling this will also remove the existing service worker.
