@@ -4,8 +4,14 @@ metaTitle: "Amateur (HAM) Radio"
 metaDescription: "Amateur (HAM) Radio"
 ---
 
-# KN6VEP
+# HAM Radio License
 
-Callsign KN6VEP
+- Callsign KN6VEP
+- FCC Technician Class License
+- [KN6VEP Station Website](https://kn6vep.com/)
 
-[KN6VEP Station](https://kn6vep.com/)
+# HAM Radio Equipment
+
+## Transceivers
+
+## Antennas

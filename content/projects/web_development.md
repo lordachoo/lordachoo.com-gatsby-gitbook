@@ -6,18 +6,19 @@ metaDescription: "Web Development"
 
 # Web Development History
 
-Using various technology stacks. 
+I have completed extensive web projects with a variety of technologies, including a full featured CPQ (configure, price, quote) system written with PHP (php-fpm), MySQL, served with NGINX. 
 
 - Servers: NGINX/LIGHTTPD, Node.JS (EXPRESS), Custom written (C/C++)
 - Database: InnoDB/MySQL, MongoDB
-- Frameworks: jQuery, REACT, Gatsby
+- Frameworks: jQuery, REACT, Gatsby, Custom written REST API(s)
 
 # About This Site
 
 ## Stack
 
-- Hosted by Google Firebase
-- Built in Node, using Gatsby
+- JS / Site & CDN hosted by [Google Firebase](https://firebase.google.com/)
+- Code revision via git (also familiar with SVN)
+- Built in Node, using [Gatsby](https://www.gatsbyjs.com/)
 - Started using theme: [gatsby-gitbook-starter](https://www.gatsbyjs.com/starters/hasura/gatsby-gitbook-starter)
 
 Each page has a link to the MDX markup via the "Edit on GitHub" button to view the markup. 
@@ -49,7 +50,71 @@ i  hosting[lordachoo-c2966]: releasing new version...
 
 ### Example MDX Formatting
 
+Mainly for myself for mdx format/content writing.
+
 #### Simple Markup
+
+## Nested list
+
+Note: Removed 24px bottom margin via `src/components/styles/Docs.js`
+
+```css
+# src/components/styles/Docs.js
+export const StyledMainWrapper = styled.div`
+  max-width: 1280px;
+  color: ${props => props.theme.colors.text};
+
+  ul,
+  ol {
+    -webkit-padding-start: 40px;
+    -moz-padding-start: 40px;
+    -o-padding-start: 40px;
+    margin: 0px 0px;
+    padding: 0px 0px 0px 2em;
+
+    li {
+      font-size: 14px;
+      line-height: 1.8;
+      font-weight: 400;
+    }
+  }
+```
+
+- Blah
+  - Blah
+<br />
+* Blah
+    * Blah
+    * Blah
+
+```mdx
+- Blah
+  - Blah
+<br />  <-- Note <br /> isn't doing anything for spacing as it's still rendered into the ul/ol
+* Blah
+    * Blah
+    * Blah
+```
+
+## Table
+
+| Name | Type | Description |
+| ---- | ---- | ----------- |
+| `name` | string | Name of the resource |
+| `path` | string | Path to the resource |
+
+<br />
+
+```mdx
+
+| Name | Type | Description |
+| ---- | ---- | ----------- |
+| `name` | string | Name of the resource |
+| `path` | string | Path to the resource |
+
+```
+
+## Raw
 
 ```mdx
 # Heading H1
@@ -76,6 +141,13 @@ Heading 6 text
 - Item 3
 - Item 4
 - Item 5
+
+
+## Nested list
+
+- Blah
+  - Blah
+
 
 ## Links
 
