@@ -33,11 +33,6 @@ metaDescription: "Minecraft related projects"
 Server IP: minecraft0.lordachoo.com:25566
 ```
 
-## Specs / Server Configuration
-
-
-
-
 ## Additional (Server Side) Mod Packs
 
 - Backups: [Simple Backups - 1.18.2-1.1.11](https://www.curseforge.com/minecraft/mc-mods/simple-backups)
@@ -49,16 +44,6 @@ Server IP: minecraft0.lordachoo.com:25566
 
 ```
 Server IP: minecraft0.lordachoo.com:25565
-```
-
-## Specs / Server Configuration (NOTE: World migrated to machine above)
-
-```
-- Ubuntu 20.04 Virtual Machine (LCX)
-- Running on C3758 ATOM Cores, 2.20Ghz
-- 4096MB System Memory
-- Java JDK8 / v1.8
-- fail2ban, ufw, MultiCraft with NGINX/SQLITE3/MYSQL Configuration
 ```
 
 ## Dynmap
