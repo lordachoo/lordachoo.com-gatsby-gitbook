@@ -55,6 +55,7 @@ It is impossible for me to go in-depth or even list all of the software, hardwar
       - **SW Frameworks:** such as REACT, GATSBY, jQuery, Etc
    - **DevOps:** BASH Scripting, TensorFlow & AI/DL Orchestration, Docker Containerization, Kubernetes, HPC Clustering (SLURM, MOAB, HPC/Cluster Provisioning & Management Stacks)
    - **C/C++:** Experience writing SHELL-like CLI applications, *NIX Kernel modules, general purpose utilities/applications
+   - **Minecraft Engine:** Experience configuring, administrating, managing Minecraft server instances, Minecraft mods/frameworks (Forge, Spigot, BungeeCord multi-server worlds), Multicraft environments & configuration
 - **Hardware:**
    - **Consumer/Desktop Hardware:** Deep familiarity with creating specifications/builds and configuring with all major hardware vendors: ASUS, Gigabyte, ASROCK, SuperMicro, Etc
    - **Server Hardware:** Deep familiarity with creating specifications/builds and configuring with all major hardware vendors: ASUS, Gigabyte, ASROCK, SuperMicro, HPE, Etc
@@ -81,7 +82,7 @@ It is impossible for me to go in-depth or even list all of the software, hardwar
 
 ### Hobbies
 
-- Hardware & Software Engineering
+- Hardware & Software Engineering - Including home server/environment hosting (Minecraft, Multicraft, HPC Automation Etc)
 - 3D Printing (FDM - Metal & Other Materials)
 - IOT Hardware & Programming (Arduino, ESP32, ESP8266, Etc)
 - Drones & RC

@@ -4,7 +4,46 @@ metaTitle: "Minecraft related projects"
 metaDescription: "Minecraft related projects"
 ---
 
-# Tekkit 2 MineCraft Project
+# Server / Infrastructure
+
+## Hardware
+
+```
+- 1U Server / Rackmounted
+- Ubuntu 20.04
+- Ryzen 7 5800X
+- 64GB DDR4
+- Boot Drive
+- 2x 500GB (3.5GB/s) NVME - MDADM RAID1
+```
+
+## Software
+
+```
+- fail2ban, ufw, 
+- MultiCraft with NGINX/SQLITE3/MYSQL Configuration
+- Multiple Java versions as needed e.g /usr/lib/jvm/java-x*/jre/bin/java
+```
+
+# ATM7 - TTS Server
+
+[Mod Pack - ATM7 - To The Sky](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)
+
+```
+Server IP: minecraft0.lordachoo.com:25566
+```
+
+## Specs / Server Configuration
+
+
+
+
+## Additional (Server Side) Mod Packs
+
+- Backups: [Simple Backups - 1.18.2-1.1.11](https://www.curseforge.com/minecraft/mc-mods/simple-backups)
+- Performance Profiling: [Spark - 1.9.11-forge](https://github.com/lucko/spark)
+
+# Tekkit 2 MineCraft Server
 
 [Tekkit 2 - v 1.1.3 ](https://www.technicpack.net/modpack/tekkit-2.1935271) - 148 mods
 
@@ -12,14 +51,14 @@ metaDescription: "Minecraft related projects"
 Server IP: minecraft0.lordachoo.com:25565
 ```
 
-## Specs / Server Configuration
+## Specs / Server Configuration (NOTE: World migrated to machine above)
 
 ```
 - Ubuntu 20.04 Virtual Machine (LCX)
 - Running on C3758 ATOM Cores, 2.20Ghz
 - 4096MB System Memory
-- Java JDK v1.8
-- fail2ban, ufw
+- Java JDK8 / v1.8
+- fail2ban, ufw, MultiCraft with NGINX/SQLITE3/MYSQL Configuration
 ```
 
 ## Dynmap
